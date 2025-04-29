@@ -2,6 +2,9 @@
 
 This project uses a Convolutional Neural Network (CNN) built with TensorFlow to classify images of cats and dogs. It leverages an open-source dataset and demonstrates the power of deep learning for image recognition tasks.
 
+### 📂 dataset
+download from : https://www.kaggle.com/datasets/dhirensk/cats-vs-dogs-training8000test2000 
+
 ## 📌 Overview
 
 - Built a CNN using TensorFlow and Keras
